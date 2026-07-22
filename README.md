@@ -304,7 +304,7 @@ Deep-Learning-Lab/
 
 # 👨‍💻 Author
 
-**Hyderabad Mohammed Nawaz**
+**BANDLAPALLI BHANUTEJA REDDY**
 
 **B.Tech – Artificial Intelligence and Machine Learning**
 
